@@ -1,0 +1,16 @@
+Exercício:
+
+Crie apenas uma estruturação de ideias escrita em pseudocódigo que ache necessário para implementar um sistema de entregas (mota ou carro) para o Cliente McDonalds.
+
+Outros concorrentes que já usam este sistema: Telepizza e BurgerKing (app)
+Associados atuais McDonalds de entregas: Glovo e Uber Eats (app)
+
+O projeto é unir as ideias de ambos pontos, na app McDonalds.
+
+Devem procurar saber tudo o que é necessário para fazer esta integração.
+
+Exemplo:
+O que se vende
+Como se entrega
+Base de dados de clientes, produtos, estafetas etc
+Entre outros campos necessários.
