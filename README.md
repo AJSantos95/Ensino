@@ -8,7 +8,7 @@ By: A'S
 
 
 Estrutura de Dados 1
-!image[Estrutura de Dados 1]
+!image[Estrutura de Dados 1/Mcdonald's + UberEats.drawio.png]
 
 Estrutura de Dados 2
-!image[Estrutura de Dados 1]
+!image[Estrutura de Dados 2/Mcdonald's + UberEatsV2.drawio.png]
