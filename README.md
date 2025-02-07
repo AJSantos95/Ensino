@@ -8,7 +8,7 @@ By: A'S
 
 
 Estrutura de Dados 1
-![image](Estrutura de Dados 1/Mcdonald's + UberEats.drawio.png)
+![image](https://github.com/AJSantos95/Ensino/blob/main/Estrutura%20de%20Dados%201/Mcdonald's%20%2B%20UberEats.drawio.png)
 
 Estrutura de Dados 2
-![image](Estrutura de Dados 2/Mcdonald's + UberEatsV2.drawio.png)
+![image](https://github.com/AJSantos95/Ensino/blob/main/Estrutura%20de%20Dados%202/Mcdonald's%20%2B%20UberEatsV2.drawio.png)
